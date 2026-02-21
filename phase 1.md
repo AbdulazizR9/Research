@@ -4,3 +4,7 @@ Agents with higher confidence change their decision less often.
 Each agent has:
 - choice
 - confidence
+Another questions:
+1. What if situation emergency?
+2. What if others prefer more another choice?
+3. Are there any other factors which can change choice?
