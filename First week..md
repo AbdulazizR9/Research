@@ -1,3 +1,4 @@
+# Thursday
 When I read part of book "The Craft of Research":
 
     1.1 WHAT IS RESEARCH?
@@ -37,9 +38,17 @@ Moving to the next part.
 `Start by listing as many interests as you can that you’d like to explore. Don’t limit yourself to what you think might interest a teacher or make him think you’re a serious student. Let your ideas flow. Prime the pump by asking friends, classmates, even your teacher about topics that interest them.`
 Actually it is what I should do, I should explore as much ideas and field as I can. I think it will expand my horizont, and will help to explore something new for me.
 
+
 1.
 I HAVE AN IDEA, WHAT IF I BUILD MODEL IN WHICH WILL BE GO TESTS LIKE WHAT WILL CHOOSE PEOPLE IN DANGEROUS SITUATION, AND WILL ALSO BUILD AI WHICH WILL RECORD ALL TESTS AND WILL ANALYZE THIS TESTS AND WILL CONCLUDE ABOUT THEM?
 
 WHAT IF I WILL KINDA CREATE AN WORLD IN WHICH I WILL CHECK LIMIT OF HUMANITY(IT MOSTLY RELATED TO THE GAME, BUT I CAN RUN MULTIPLE TESTS, AND ALSO ANALYZE LIMITS OF HUMAN).
 
 I THINK MY MAIN PURPOSE IS TO UNDERSTAND WHY WE EXIST.
+
+2.
+
+WHAT IF MY MAIN RESEARCH DEVELOP INTO STUDYING COUNTRY, I MEAN MY QUESTIONS WILL BE LIKE, WHAT IS HAPPENING WITH THE HIGHLY CENTRALIZED NODE REMOVAL SYSTEM?
+
+# Saturday
+I think more about what should be my research, and i want to study deeply behaviour of society. Firstly, maybe i should focus on small groups, then study institutes, like law, education, and etc. It will help understand more deeply public and people in actions, then try to expand mine world, and only then switch into final phase, where i firstly will simulate country, then add countries, and world. I think it requires a lot of work, where i should think about characters of person(it will be in first phase, where i want to deeply understand how to simulate diversive people, and only then expand and expand). And maybe it can require a lot of resources, like machines, servers and etc. And i think my work will not be end in 1-2 years, but i can generalize it into whole my undergraduate years, and my goal will be by the end of BC(бакалавр) simulate whole world.
