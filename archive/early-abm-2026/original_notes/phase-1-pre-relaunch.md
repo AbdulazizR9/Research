@@ -31,3 +31,7 @@ Stages of my research:
   2. Single-factor
   3. Comparison
   4. Boundary conditions
+
+
+
+  How I will build my abm? Firstly i should build mvp version, where all things will be simple. Stop. Before building I should recognize what actually I build?

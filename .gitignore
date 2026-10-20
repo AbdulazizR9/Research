@@ -1,0 +1,6 @@
+# macOS metadata
+.DS_Store
+
+# Learning-pilot generated files
+sandbox/**/build/
+sandbox/**/results/raw/
